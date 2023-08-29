@@ -3,28 +3,6 @@
 ## Мой стек:
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20"/> HTML5,
   - <svg width="20px" height="20px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
-        <style type="text/css">
-            .st0{fill:#C1272D;}
-            .st1{fill:#EFCCA3;}
-            .st2{fill:#ED1C24;}
-            .st3{fill:#CCAC8D;}
-            .st4{fill:#FFFFFF;}
-            .st5{fill:#FF931E;}
-            .st6{fill:#FFB81E;}
-            .st7{fill:#56332B;}
-            .st8{fill:#442823;}
-            .st9{fill:#7F4A41;}
-            .st10{fill:#331712;}
-            .st11{fill:#FFCC66;}
-            .st12{fill:#CCCCCC;}
-            .st13{fill:#B3B3B3;}
-            .st14{fill:#989898;}
-            .st15{fill:#323232;}
-            .st16{fill:#1E1E1E;}
-            .st17{fill:#4C4C4C;}
-            .st18{fill:#E6E6E6;}
-            .st19{fill:#606060;}
-        </style>
         <g>
             <path class="st1" d="M107.4,50.9c-0.2-4.4,0.4-8.3-1.6-11.6c-4.8-8 2-16.8-13-40.8-13V27c0,0-0.5,0-0.5,0c0,0,0.5,0,0.5,0v-0.7
                 c-24,0-36.6,4.8-41.4,13.1c-1.9,3.4-1.7,7.2-2,11.6c-0.2,3.5-1.8,7.2-1.1,11.2c0.8,5.2,1.1,10.4,1.9,15.2c0.6,3.9,6,7.2,6.5,10.9
