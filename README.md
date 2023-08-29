@@ -10,7 +10,7 @@
 
 ## Сайты над которыми я работала
 Название | Описание | Демонстрация 
-:-:|:-:|:-:
+:-:|:-|:-:
 [Ohmyart](https://github.com/SitnikovaIrina/ohmyart)| ___Сайт художественной галереи___ _Комерческий проект. Над сайтом работала команда. Я работала над прелоадером, втором и шестым стики-блоками, блок с вертикальным параллаксом. Стек: HTML5, PUG, CSS, SASS, БЭМ, PerfectPixel, JavaScript, js библиотека GSAP_|https://sitnikovairina.github.io/ohmyart/
 [Supergym](https://github.com/SitnikovaIrina/supergym)| ___Сайт фитнес центра___ _Стек: HTML5, CSS, SASS, БЭМ, PerfectPixel, JavaScript_ | https://sitnikovairina.github.io/supergym/
 [Antarctic Cruises](https://github.com/SitnikovaIrina/antarctic-cruises)| ___Сайт туристической компании___ _Стек: HTML5, CSS, SASS, БЭМ, PerfectPixel, JavaScript_ |https://sitnikovairina.github.io/antarctic-cruises/
