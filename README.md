@@ -1,18 +1,11 @@
 # Я Ирина, начинающий frontend-разработчик
 
 ## Мой стек:
- - HTML5,
- - PUG,
- - CSS,
- - SASS,
- - Методология БЭМ,
- - JavaScript
-
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20"/> HTML5,
- - PUG
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" width="20"/> CSS,
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" width="25"/> SASS,
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" width="20"/> JavaScript,
+ - PUG
  - Методология БЭМ
 
 ## Сайты над которыми я работала
