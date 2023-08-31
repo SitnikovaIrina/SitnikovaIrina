@@ -2,9 +2,10 @@
 
 ## Мой стек:
   - <img src="img/html.svg" height="20" width="20" alt="HTML5"/> HTML5
+  - ![Логотип](img/html.svg) HTML5
   - <img src="img/pug.svg" height="20" width="20" alt="PUG"/> PUG
   - <img src="img/css.svg" height="20" width="20" alt="CSS"/> CSS
-  - <img src="img/sass.svg" height="25" width="25" alt="SASS"/> SAS
+  - <img src="img/sass.svg" height="25" width="25" alt="SASS"/> SASS
   - <img src="img/javascript.svg" height="20" width="20" alt="JavaScript"/> JavaScript
   - <img src="img/bem.svg" height="20" width="20" alt="БЭМ"/> Методология БЭМ
 
