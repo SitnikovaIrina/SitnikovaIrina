@@ -1,12 +1,12 @@
 # Я Ирина, начинающий frontend-разработчик
 
 ## Мой стек:
-![Логотип](img/html.svg) HTML5
-![Логотип](img/pug.svg) PUG
-![Логотип](img/css.svg) CSS
-![Логотип](img/sass.svg) SASS
-![Логотип](img/bem.svg) Методология БЭМ
-![Логотип](img/javascript.svg) JavaScript
+ - ![Логотип](img/html.svg) HTML5
+ - ![Логотип](img/pug.svg) PUG
+ - ![Логотип](img/css.svg) CSS
+ - ![Логотип](img/sass.svg) SASS
+ - ![Логотип](img/bem.svg) Методология БЭМ
+ - ![Логотип](img/javascript.svg) JavaScript
 
 ## Контакты: 
 [![Telegram](img/telegram.svg)](https://msng.link/o?IrinaSitnikovaTula=tg) [![WhatsApp](img/whatsapp.svg)](https://msng.link/o?79207409910=wa) [![Mail](img/mail.svg)](mailto:irina_sit88@mail)
